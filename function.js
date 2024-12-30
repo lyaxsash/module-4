@@ -67,3 +67,5 @@ alert(sum(5,6));
 // }
 // alert(riot(6,5)*101)
 
+alert (number);
+
