@@ -1,6 +1,5 @@
 // имя
-let myName = "Alex";
-function greet() {
-	alert(`Привет, ${myName}!`);
+export function greet(myName) {
+	return `Привет, ${myName}!`;
 }
-greet();
+
